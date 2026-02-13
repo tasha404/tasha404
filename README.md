@@ -19,5 +19,5 @@ In my free time, I enjoy learning new technologies, refining my coding skills, a
 ## Database
 [![My Skills](https://skillicons.dev/icons?i=firebase,mysql,sqlite)](https://skillicons.dev)
 
-## Database
+## OS
 [![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
