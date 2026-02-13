@@ -5,7 +5,7 @@ I’ve worked on projects like AI-based detection systems and interactive web ap
 
 Beyond coding, I enjoy creating aesthetically pleasing and user-friendly designs. I love combining tech with creativity — whether it’s designing fun web apps, customizing UI/UX, or building projects that feel both smart and beautiful.
 
-In my free time, I enjoy learning new technologies, refining my coding skills, and working on creative side projects. When I’m not in tech mode, you’ll probably find me exploring Korean skincare, doing makeup, taking cute pictures, or enjoying a good cup of strawberry buttercream latte ♡
+In my free time, I enjoy learning new technologies, refining my coding skills, and working on creative side projects. When I’m not in tech mode, you’ll probably find me exploring Korean skincare, reading on my Kindle, taking cute pictures, or enjoying a good cup of strawberry buttercream latte ♡
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,python,dart,java,kotlin,php,react,nd)](https://skillicons.dev)
